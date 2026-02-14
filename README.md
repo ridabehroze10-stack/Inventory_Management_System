@@ -1,1 +1,1 @@
-A collaborative Software Engineering project implementing a university Learning Management System using Agile methodology with sprint planning via Jira/Trello and structured frontend-backend integration.
+Data Structures project implementing product storage, search, insertion, deletion and cart functionality using structured class separation (Node, Tree, Main).
